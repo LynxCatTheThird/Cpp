@@ -9,7 +9,7 @@ Hangman直译为“上吊的人”，是一个猜单词的双人游戏。由一�
 - 使用Windows的color命令丰富了效果（仅限Windows版……）
 - 将注释、输出等翻译为简体中文
 - 适当添加注释
-- 去除了原程序的第25行
+- 去除了原程序的第25行和第49行
 
 **祝你玩的开心！**
 
@@ -24,6 +24,6 @@ This program is the C++ version of Hangman, fork from the main branch and the Ad
 - Enriched effects with Windows' color command (Windows only...)
 - Translate comments, output, etc. into Simplified Chinese
 - Appropriately add comments
-- Removed line 25 of the original program
+- Removed line 25 and line 49 of the original program
 
 **Hope you have a good time! **
