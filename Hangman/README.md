@@ -13,14 +13,14 @@ Hangman直译为“上吊的人”，是一个猜单词的双人游戏。由一�
 
 **祝你玩的开心！**
 
-#Hangman
+# Hangman
 
-Hangman literally translates as "The Hanged Man" and is a two-person game of guessing words. One player comes up with a word or phrase, and the other player guesses every letter in the word or phrase. The first person takes the word or phrase, leaving only the corresponding amount of blanks and underscores.
+Hangman is a two-person game of guessing words. One player comes up with a word or phrase, and the other player guesses every letter in the word or phrase. The first person takes the word or phrase, leaving only the corresponding amount of blanks and underscores.
 
-This program is the C++ version of Hangman, fork from the main branch and the AddedCountries branch of [Hotsotse/Hang-man](https://github.com/Hotsotse/Hang-man). The editor made simple adjustments to it and adjusted the project. Roughly as follows:
+This program is the writen in C++ , and it's fork from the main branch and the AddedCountries branch of [Hotsotse/Hang-man](https://github.com/Hotsotse/Hang-man). I made simple adjustments to it. Roughly as follows:
 
 - Greatly expanded thesaurus
-- Added word source function, you can select words whose content is animals/items/place names/countries/chemical elements, etc.
+- Added word source function, you can select words whose content is animals/things/place names/countries/chemical elements, etc.
 - Enriched effects with Windows' color command (Windows only...)
 - Translate comments, output, etc. into Simplified Chinese
 - Appropriately add comments
