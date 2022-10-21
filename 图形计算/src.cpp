@@ -29,7 +29,7 @@ int main()
 		printf ("%lf\n",pi);
 		printf ("半径=");
 		printf ("%lf\n",r);
-		printf ("圆/的直径=");
+		printf ("圆的直径=");
 		printf ("%lf\n",d);
 		printf ("圆的周长=");
 		printf ("%lf\n",c);
