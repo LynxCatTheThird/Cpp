@@ -26,4 +26,4 @@ This program is the writen in C++ , and it fork from the main branch and the Add
 - Appropriately add comments
 - Removed line 25 and line 49 of the original program
 
-**Hope you have a good time! **
+**Hope you have a good time!**
