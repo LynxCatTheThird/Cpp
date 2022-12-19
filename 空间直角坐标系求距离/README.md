@@ -4,4 +4,6 @@
 
 ### 目前仅支持右手系（左手系懒得写）
 
-# Sorry, English translation is temporarily unavailable
+### Non-production ready! There may be calculation or accuracy problems! 
+
+### Currently, only right-handed systems are supported (left-handed systems are too lazy to write)
