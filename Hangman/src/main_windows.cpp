@@ -471,7 +471,5 @@ int main(){
 	system("color 04");
 	cout << endl << "嘤嘤嘤，你输了。你被绞死了。" << endl;
 	cout << "这个词是：" << word << endl;
-	//cin.ignore();
-	
 	return 0;
 }
